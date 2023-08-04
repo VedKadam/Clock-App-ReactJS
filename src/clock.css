@@ -1,0 +1,27 @@
+body {
+	background: linear-gradient(to right, #2980b9, #6dd5fa, #ffffff);
+}
+
+.time {
+	margin-top: 10vh;
+	font-size: 3rem;
+	background: linear-gradient(to right, #373b44, #4286f4);
+	color: white;
+	border: 2px solid black;
+	width: 30%;
+	padding: 40px;
+	border-radius: 20px;
+}
+
+#title {
+	margin-top: 10%;
+	font-size: 60px;
+	font-family: sans-serif;
+}
+
+.hollo-text {
+
+	color: black;
+	-webkit-text-fill-color: transparent;
+	-webkit-text-stroke-width: 2px;
+}

@@ -1,0 +1,59 @@
+
+
+.alarm-app {
+    font-family: Arial, sans-serif;
+    max-width: 50%;
+    max-height: 50%;
+    margin-top: 5%;
+    padding: 20px;
+    border: 2px solid black;
+    border-radius: 20px;
+  }
+  
+  .alarm-list {
+    margin-bottom: 20px;
+  }
+  
+  .alarm-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  .add-alarm {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  .add-alarm label {
+    margin-right: 10px;
+  }
+  
+  .add-alarm input,
+  .add-alarm select {
+    width: 70px;
+    text-align: center;
+  }
+  
+  button {
+    padding: 8px 12px;
+    font-size: 14px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:disabled {
+    background-color: #ccc;
+    cursor: not-allowed;
+  }
+  #title {
+	margin-top: 10%;
+	font-size: 60px;
+	font-family: sans-serif;
+}

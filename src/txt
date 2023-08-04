@@ -1,0 +1,4 @@
+ // You can also use other ways to display the message, like setting a state to render a message on the screen.
+
+        // If you want to remove the alarm after it's triggered, uncomment the line below
+        // handleDeleteAlarm(index);
